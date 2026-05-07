@@ -1,0 +1,14 @@
+numpy
+faiss-cpu
+sentence-transformers
+transformers
+torch
+pdfplumber
+pymupdf
+pytesseract
+pillow
+pandas
+streamlit
+langchain
+openai
+camelot-py[cv]
